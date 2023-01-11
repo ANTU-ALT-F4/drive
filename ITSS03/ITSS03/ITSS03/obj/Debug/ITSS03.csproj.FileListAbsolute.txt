@@ -1,0 +1,13 @@
+C:\Users\FIT\Desktop\ITSS03\ITSS03\obj\Debug\ITSS03.csproj.AssemblyReference.cache
+C:\Users\FIT\Desktop\ITSS03\ITSS03\obj\Debug\ITSS03.csproj.SuggestedBindingRedirects.cache
+C:\Users\FIT\Desktop\ITSS03\ITSS03\obj\Debug\ITSS03.Form1.resources
+C:\Users\FIT\Desktop\ITSS03\ITSS03\obj\Debug\ITSS03.Properties.Resources.resources
+C:\Users\FIT\Desktop\ITSS03\ITSS03\obj\Debug\ITSS03.csproj.GenerateResource.cache
+C:\Users\FIT\Desktop\ITSS03\ITSS03\obj\Debug\ITSS03.csproj.CoreCompileInputs.cache
+C:\Users\FIT\Desktop\ITSS03\ITSS03\bin\Debug\ITSS03.exe.config
+C:\Users\FIT\Desktop\ITSS03\ITSS03\bin\Debug\ITSS03.exe
+C:\Users\FIT\Desktop\ITSS03\ITSS03\bin\Debug\ITSS03.pdb
+C:\Users\FIT\Desktop\ITSS03\ITSS03\obj\Debug\ITSS03.exe
+C:\Users\FIT\Desktop\ITSS03\ITSS03\obj\Debug\ITSS03.pdb
+C:\Users\FIT\Desktop\ITSS03\ITSS03\obj\Debug\ITSS03.Management.resources
+C:\Users\FIT\Desktop\ITSS03\ITSS03\obj\Debug\ITSS03.Request.resources
