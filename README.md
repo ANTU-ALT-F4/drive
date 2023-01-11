@@ -6,7 +6,10 @@
 --------------------------------------------------------------------------------
 
 
-    add constraint FK_TEACHER_WORK_AT_WORK_UNI foreign key (CODE_WORK_UNIT) references WORK_UNIT (CODE_WORK_UNIT) go
+    alter table TEACHER
+       add constraint FK_TEACHER_WORK_AT_WORK_UNI foreign key (CODE_WORK_UNIT)
+          references WORK_UNIT (CODE_WORK_UNIT)
+    go
 -------------------------------------------------------------------------------
     constraint fk_orderitems_orders foreign key (orderid) references orders(id)
 -------------------------------------------------------------------------------
